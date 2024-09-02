@@ -7,4 +7,7 @@
 
 # ------
 
-# The program should allow the student to enter the answer.  If the answer is correct, a message of congratulations should be displayed.  If the answer is incorrect a message showing the correct answer should be displayed.  The program must use a function that accomplishes part of the needed tasks.
+# The program should allow the student to enter the answer.  
+# If the answer is correct, a message of congratulations should be displayed.  
+# If the answer is incorrect a message showing the correct answer should be displayed.  
+# The program must use a function that accomplishes part of the needed tasks.
